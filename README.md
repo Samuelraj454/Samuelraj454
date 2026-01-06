@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Samuelraj
 - 👀 I’m interested in ... learning new things and watching anime 
-- 🌱 I’m currently learning ... java and python
+- 🌱 I’m currently learning ... Machine learning using python and python and data analysis using AI
 - 💞️ I’m looking to collaborate on ... software employment
 - 📫 How to reach me ... samuelraj454@gmail.com (9010178823)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I’m an AI & Data Science graduate who enjoys building machine learning projects and likes watching anime while exploring new technologies.
 
 <!---
 Samuelraj454/Samuelraj454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
